@@ -10,9 +10,9 @@ This project is a starting point for a Flutter application.
 <img src="https://user-images.githubusercontent.com/55204040/128593018-dae9091c-121d-4a45-ad1f-e69d21269506.PNG" alt="HomePage" width=350px></img>
 
 ## DecoratedBoxTransition Page
-<img src="https://user-images.githubusercontent.com/55204040/128593216-5a2ad9e5-9b39-4a7a-abd8-eaa78554a30b.PNG" alt="DecoratedBoxTransition1" width=350px></img>
-<img src="https://user-images.githubusercontent.com/55204040/128593221-a3a48cb2-aef1-4923-b582-95862a23c815.PNG" alt="DecoratedBoxTransition2" width=350px></img>
-<img src="https://user-images.githubusercontent.com/55204040/128593224-6bcdff08-373f-46e7-b64e-8dda909b0e36.PNG" alt="DecoratedBoxTransition3" width=350px></img>
+<img src="https://user-images.githubusercontent.com/55204040/128593216-5a2ad9e5-9b39-4a7a-abd8-eaa78554a30b.PNG" alt="DecoratedBoxTransition1" width=300px></img>
+<img src="https://user-images.githubusercontent.com/55204040/128593221-a3a48cb2-aef1-4923-b582-95862a23c815.PNG" alt="DecoratedBoxTransition2" width=300px></img>
+<img src="https://user-images.githubusercontent.com/55204040/128593224-6bcdff08-373f-46e7-b64e-8dda909b0e36.PNG" alt="DecoratedBoxTransition3" width=300px></img>
 
 ## FadeTransition Page
 <img src="https://user-images.githubusercontent.com/55204040/128593297-e2b70efc-eb1d-47b0-894c-d16d6f1a5b9d.PNG" alt="FadeTransition1" width=350px></img>
